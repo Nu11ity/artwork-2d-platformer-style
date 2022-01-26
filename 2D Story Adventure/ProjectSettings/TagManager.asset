@@ -47,6 +47,9 @@ TagManager:
   - name: Foreground
     uniqueID: 4072928157
     locked: 0
+  - name: Dynamic
+    uniqueID: 1277625501
+    locked: 0
   - name: Fog
     uniqueID: 594684823
     locked: 0
